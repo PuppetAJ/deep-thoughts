@@ -1,4 +1,3 @@
-import { defaultDataIdFromObject } from '@apollo/client';
 import decode from 'jwt-decode';
 
 class AuthService {
